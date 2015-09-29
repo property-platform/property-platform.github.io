@@ -3,7 +3,7 @@ body {
   margin: 0;
   font:14px/1.5 $font-default;
   font-weight: normal;
-  color: $pebble;
+  color: $colour-text-default;
   background-color: $mega-light;
 }
 
@@ -28,7 +28,7 @@ a {
   text-decoration:none;
 
   &:hover {
-    color: $teal;
+    color: $bluestone;
   }
 }
 
@@ -41,7 +41,7 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  color: $pebble;
+  color: $colour-text-default;
   font-size:12px;
 }
 
@@ -63,7 +63,7 @@ th, td {
 }
 
 dt, th {
-  color: $bluestone;
+  color: $colour-text-default;
   font-family: $font-medium;
 }
 

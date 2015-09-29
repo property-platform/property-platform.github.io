@@ -1,15 +1,27 @@
-.wrapper {
+.wrapper, footer {
   width: 90%;
   max-width: 1400px;
   margin:0 auto;
+  padding-top: 2rem;
 }
 
-header {
-  ul, menu, li {
+.flex-container {
+  display: flex;
+  // flex-flow: row wrap;
+  // justify-content: space-around;
+}
+
+menu {
+  flex: 1;
+  // max-width: 300px;
+  padding-right: 1rem;
+  padding-left: 0;
+
+  ul, li {
     list-style:none;
     padding:0;
     margin: 0;
-    
+
     a {
       display:block;
       padding: 0.25rem 0;
@@ -17,7 +29,8 @@ header {
   }
 }
 
-section {
+main {
+  flex: 4;
   background-color: $white;
   padding: 2rem;
 }
@@ -30,21 +43,23 @@ footer {
     list-style:none;
     padding:0;
     margin: 0;
-    
+
     a {
       display: inline-block;
       margin-right: 1rem;
     }
-  }
-  
-  .rea-logo {
-    float: right;
-    img {
-      vertical-align: middle;
-      margin-left: 0.5rem;
-      padding-left: 0.5rem;
-      border-left: 1pt $light solid;
+    .rea-logo {
+      float: right;
     }
   }
+
 }
 
+.rea-logo {
+  img {
+    vertical-align: middle;
+    margin-left: 0.5rem;
+    padding-left: 0.5rem;
+    border-left: 1pt $light solid;
+  }
+}

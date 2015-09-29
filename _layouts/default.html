@@ -15,8 +15,11 @@
   <body>
 
     <header class="wrapper">
-      <h1 class="rea-logo">Property Platform help 
-        <img height="20px" src="/images/realestate.com.au.svg" alt="Realestate.com.au">
+      <h1 class="rea-logo">
+        <a href="/">
+          Property Platform help 
+          <img height="20px" src="/images/realestate.com.au.svg" alt="Realestate.com.au">
+        </a>
       </h1>
       <p>User guides for Property Platform</p>
     </header>
@@ -24,18 +27,13 @@
     <div class="wrapper flex-container">
       <menu>
         <ul>
-          <li><a href="/">Something</a></li>
-          <li><a href="/">Something</a></li>
-          <li><a href="/">Something</a></li>
-          <li><a href="/">Something</a></li>
-          <li><a href="/">Something</a></li>
-          <li><a href="/">Something</a></li>
+          {% for page in site.pages %}
+            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          {% endfor %}
         </ul>
       </menu>
       <main>
-        
         {{ content }}
-        
       </main>
     </div>
     <footer>
@@ -43,8 +41,10 @@
         <li><a href="https://about.realestate.com.au/" target="_blank" title="About Us">About</a></li>
         <li><a href="https://propertyplatform.realestate.com.au/pages/terms" target="_blank" title="Terms of Use">Terms of Use</a></li>
         <li><a href="https://about.realestate.com.au/privacy/" target="_blank" title="Privacy Policy">Privacy</a></li>
-        <li class="rea-logo">Property Platform <img height="20px" src="/images/realestate.com.au.svg" alt="Realestate.com.au"></li>
+        <li id="last-updated">Last updated {{ site.time | date_to_long_string }}</li>
+        <li class="rea-logo"><a href="https://propertyplatform.realestate.com.au">Property Platform <img height="20px" src="/images/realestate.com.au.svg" alt="Realestate.com.au"></a></li>
       </ul>
+      
     </footer>
     <script src="javascripts/scale.fix.js"></script>
   </body>

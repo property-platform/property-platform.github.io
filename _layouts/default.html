@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ page.title }} | Property Platform help</title>
+    <title>{% include title.html %}</title>
 
     <link rel="stylesheet" href="/stylesheets/styles.css">
     <link rel="stylesheet" href="/stylesheets/github-light.css">
@@ -28,13 +28,7 @@
 
     <div class="wrapper">
       <menu class="side">
-        <ul>
-          {% for page in site.pages %}
-            {% if page.title %}
-              <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
+      {% include menu.html %}
       </menu>
       <main>
         {{ content }}
@@ -42,14 +36,7 @@
     </div>
 
     <footer class="wrapper">
-      <div id="last-updated" class="side">Last updated {{ site.time | date_to_long_string }}</div>
-      <ul id="alt-links" class="flex-main">
-        <li><a href="https://about.realestate.com.au/" target="_blank" title="About Us">About</a></li>
-        <li><a href="https://propertyplatform.realestate.com.au/pages/terms" target="_blank" title="Terms of Use">Terms of Use</a></li>
-        <li><a href="https://about.realestate.com.au/privacy/" target="_blank" title="Privacy Policy">Privacy</a></li>
-        <li class="rea-logo"><a href="https://propertyplatform.realestate.com.au">Property Platform <img height="20px" src="/images/realestate.com.au.svg" alt="Realestate.com.au"></a></li>
-      </ul>
-      
+      {% include footer.html %}
     </footer>
     <script src="javascripts/scale.fix.js"></script>
   </body>

@@ -30,7 +30,9 @@
       <menu class="side">
         <ul>
           {% for page in site.pages %}
-            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+            {% if page.title %}
+              <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+            {% endif %}
           {% endfor %}
         </ul>
       </menu>

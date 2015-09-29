@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Property Platform help
 ---
 
 # Welcome to Property Platform help

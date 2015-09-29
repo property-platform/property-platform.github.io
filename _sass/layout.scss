@@ -72,7 +72,15 @@ footer {
 .rea-logo {
   a {
     color: inherit;
+    &:hover {
+      color: $rea-red;
+    }
   }
+
+  h3, h4 {
+    margin-bottom: 0;
+  }
+
   img {
     vertical-align: middle;
     margin-left: 0.5rem;

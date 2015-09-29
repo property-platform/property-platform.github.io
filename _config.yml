@@ -1,0 +1,7 @@
+# github overides the source directory, so unfortunately the site's content
+# is mixed amoungst the site's config. Seperation of concerns need not apply here
+destination: build
+exclude: [run/*]
+encoding: utf-8
+safe: true
+lsi: false

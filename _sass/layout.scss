@@ -3,17 +3,25 @@
   max-width: 1400px;
   margin:0 auto;
   padding-top: 2rem;
-}
-
-.flex-container {
   display: flex;
 }
 
-menu {
+main, .flex-main {
+  flex: 4;
+}
+
+.side {
   flex: 1;
   max-width: 300px;
   padding-right: 1rem;
   padding-left: 0;
+
+}
+
+menu {
+  &.side {
+    padding-top: 1rem;
+  }
 
   ul, li {
     list-style:none;
@@ -28,7 +36,6 @@ menu {
 }
 
 main {
-  flex: 4;
   background-color: $white;
   padding: 2rem;
   border-radius: 5px;

@@ -19,7 +19,6 @@
     width: auto;
     margin: 1rem;
     padding-top: 1rem;
-    display: block;
   }
 
   .side {
@@ -33,6 +32,10 @@
 
   #banner, #last-updated, menu.side {
     display: none;
+  }
+
+  header #menu-toggle {
+    display: block;
   }
 
 }

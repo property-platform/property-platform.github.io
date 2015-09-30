@@ -19,12 +19,25 @@ main, .flex-main {
 }
 
 header {
+  justify-content: flex-end;
+
   a {
     display: flex;
     align-items: center;
     img {
       height: 2rem;
       margin-right: 0.5rem;
+    }
+  }
+
+  #menu-toggle {
+    flex: 1;
+    padding: 0;
+    text-align: right;
+    display: none;
+
+    &:hover {
+      cursor: pointer;
     }
   }
 }

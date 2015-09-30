@@ -12,7 +12,7 @@ It's that easy
 
 ## Adding Properties
 
-![ProjectsHome](http://res.cloudinary.com/propconnect/image/upload/v1443594641/HelpGuide/2015-09-30_12-21-37.png)
+![ProjectsHome](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_587/v1443594641/HelpGuide/2015-09-30_12-21-37.png)
 
 A property is inside a project and you can live in it
 

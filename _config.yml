@@ -5,3 +5,7 @@ exclude: [run/*]
 encoding: utf-8
 safe: true
 lsi: false
+
+pp:
+  name: Property Platform
+  url: 'https://propertyplatform.realestate.com.au/'

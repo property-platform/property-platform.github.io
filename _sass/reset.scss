@@ -1,34 +1,41 @@
 body {
   padding: 0;
   margin: 0;
-  font: 14px/1.5 $font-default;
+  font-size: $font-size-default;
+  font-family: $font-default;
   font-weight: normal;
+  line-height: 1.5;
   color: $colour-text-default;
-  background-color: $mega-light;
+  background-color: $white;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin:0 0 1rem;
   color: $bluestone;
   font-family: $font-medium;
   font-weight: normal;
+  margin:0 0 1rem;
+}
+
+h1, h2, h3 {
+  font-size: $font-size-default*1.5;
+  line-height:1.1;
+}
+
+h4, h5, h6 {
+  font-size: $font-size-default;
 }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 1rem;
 }
 
-h1, h2, h3 {
-  line-height:1.1;
-}
-
 a {
-  color: $rea-red;
+  color: $bluestone;
   font-weight:400;
   text-decoration:none;
 
   &:hover {
-    color: $bluestone;
+    color: $rea-red;
   }
 }
 

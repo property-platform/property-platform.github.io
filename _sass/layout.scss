@@ -37,8 +37,10 @@ menu {
     margin-bottom: 2rem;
 
     a {
+      // reduce padding so we align with the main copy
       padding: 0;
     }
+
     .note {
       color: $light;
       font-weight: normal;
@@ -53,6 +55,10 @@ menu {
     display:block;
     padding: 0.5rem 0;
     font-family: $font-medium;
+
+    &.current-page {
+      color: $rea-red;
+    }
   }
 
   ul, li {

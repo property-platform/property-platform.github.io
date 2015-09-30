@@ -33,22 +33,9 @@ menu {
   margin-top: 0;
   padding-top: 0;
 
-  h2 {
-    margin-bottom: 2rem;
-
-    a {
-      // reduce padding so we align with the main copy
-      padding: 0;
-    }
-
-    .note {
-      color: $light;
-      font-weight: normal;
-      font-family: $font-default;
-      font-size: 0.8rem;
-      display: block;
-      padding-top: 0.5rem;
-    }
+  #user-guide a {
+    padding: 0.5rem 0;
+    font-size: $font-size-default;
   }
 
   a {

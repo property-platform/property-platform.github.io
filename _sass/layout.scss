@@ -3,19 +3,25 @@
   max-width: 1400px;
   margin:0 auto;
   padding-top: 2rem;
+  display: -webkit-box;
+  -webkit-justify-content: space-between;
   display: flex;
   justify-content: space-between;
 }
 
 main, .flex-main {
+  -webkit-box-flex: 3;
+  -webkit-flex: 3;
   flex: 3;
 }
 
 .side {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
   flex: 1;
-  max-width: 300px;
   padding-right: 1rem;
   padding-left: 0;
+  width: 30%
 }
 
 header {
@@ -81,15 +87,16 @@ main {
 }
 
 footer {
-  padding-top: 5rem;
+  padding: 5rem 0;
+
   #last-updated {
     opacity: 0.25;
-
     &:hover {
       opacity: 0.8;
       cursor: help;
     }
   }
+
   .rea-logo {
     a {
       color: inherit;

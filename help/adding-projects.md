@@ -62,3 +62,45 @@ This is where you can customise how your networks can reserve properties
 
 8.	In the reservation agreement all the legal T&Cs and privacy matters are covered but if you have specific reservation instructions for your agents that you want to call our or make obvious you can enter them in the Reservation Instructions section. 
 
+**You’re ready to go, hit the create project button to continue**
+
+#### 4. Import your pricelist
+
+You will be prompted to import a price list, but if you aren’t ready to do so just yet, you can always find it in the small cog that allows you to edit your project.
+
+![pricelist-paste](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_628/v1443680958/HelpGuide/2015-10-01_16-28-35.png)
+
+Copy and paste your price list from Excel. Yes, it's that easy!
+
+It is OK if your headings are unique, you will have a chance to match them after you import.
+
+The minimum you require is the property number, the price, and the number of bedrooms.   Below is a complete list of all the fields that you are able to import per property.
+
+* Property Number
+* Property Name
+* Level
+* Property Type
+* Price
+* Status (sold/reserved/available/held)
+* Internal Area (m²)
+* External Area (m²)
+* Total Area (m²)
+* No. of bedrooms 
+* No. of bathrooms 
+* No. of car spaces
+* Has Study?
+* Property Style
+* Aspect
+* Estimated Stamp Duty Amount ($)
+* Owner’s Corp Rates ($)
+* Estimated Rental Value ($ per week)
+* Additional Features
+
+*When you have pasted from excel click the next button at the bottom of the page*
+
+![field-match]( http://res.cloudinary.com/propconnect/image/upload/c_scale,w_628/v1443681795/HelpGuide/2015-10-01_16-38-01.png
+)
+
+Next you have the opportunity to select the corresponding fields if the system wasn’t able to identify it for you, you can also elect not to import some of the fields.
+
+

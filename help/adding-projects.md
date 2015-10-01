@@ -26,15 +26,15 @@ Start by clicking the Create Project Button, from there you will need to select 
 
 Enter Project Details - note most fields are optional but the more complete the easier it will for your sales network to find the information.
 
-*Project name
-*Project address
-*Project description/marketing blurb 
-*Video URL (only if available)
-*Carpark value (only if required)
-*Estimated start and completion dated
-*Sunset Clause
-*Total Units
-*Number of Levels
-*Builder
-*Vendor
+* Project name
+* Project address
+* Project description/marketing blurb 
+* Video URL (only if available)
+* Carpark value (only if required)
+* Estimated start and completion dated
+* Sunset Clause
+* Total Units
+* Number of Levels
+* Builder
+* Vendor
 

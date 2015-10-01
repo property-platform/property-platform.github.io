@@ -8,7 +8,7 @@ We hope that you find Property Platform easy to use, but we also understand that
 
 You can find most answers to common questions about using the platform and managing your account on the right hand side of this page.
 
-If you can’t find the answer to your question in this guide then please send any questions to <mailto: propertyplatform@realestate.com.au> and we will respond to you as soon as we can.  
+If you can’t find the answer to your question in this guide then please [email us](mailto:propertyplatform@realestate.com.au) and we will respond to you as soon as we can.  
 
 Alternatively if you need an urgent answer contact our customer care team on 1300 134 174.
 

@@ -17,14 +17,22 @@
   }
 }
 
-#modal-background.open {
-  background-color: transparentize($bluestone, 0.25);
+#modal-background {
   position: absolute;
+  z-index: 500;
   top: 0;
-  bottom: 0;
   left: 0;
   right: 0;
-  z-index: 500;
+
+  background-color: rgba(0,0,0,0);
+  transition-property: background-color;
+  transition-duration: 1s;
+
+
+  &.open {
+    bottom: 0;
+    background-color: transparentize(darken($bluestone, 50%), 0.25);
+  }
 }
 
 #menu-main {
@@ -39,4 +47,12 @@ header #menu-toggle {
   z-index: 1500;
   top: 1rem;
   right: 1rem;
+  width: 20px;
+  height: 20px;
+  background-image: url('/images/icon-burger.svg');
+  background-size: cover;
+
+  &.open {
+    background-image: url('/images/icon-close.svg');
+  }
 }

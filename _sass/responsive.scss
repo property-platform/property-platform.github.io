@@ -8,32 +8,18 @@
 
 @media print, screen and (max-width: 670px) {
 
-  #banner {
-    height: 5rem;
-  }
-
   .wrapper, #main-wrapper, footer {
     width: auto;
     margin: 1rem;
     padding-top: 0;
   }
 
-  #last-updated, #menu-main {
+  #banner, #last-updated, #menu-main {
     display: none;
-  }
-
-  header #menu-toggle {
-    display: block;
   }
 
   #main-wrapper {
     display: block;
-  }
-
-  #menu-main.side {
-    width: 100%;
-    margin-top: -1rem;
-    border-bottom: 1pt $light solid;
   }
 
   main {
@@ -41,13 +27,8 @@
     padding-top: 0;
     min-height: inherit;
   }
-}
 
-@media print, screen and (max-width: 480px) {
-
-  #banner {
-    display: none;
-  }
+  @import "responsive/menu";
 }
 
 @media print {

@@ -1,11 +1,5 @@
 ---
 ---
-menu_main = document.getElementById('menu-main')
+menu_main = document.getElementById('menu-wrapper')
 document.getElementById('menu-toggle').onclick = (e) =>
-
-  # Poor mans toggle
-  s = menu_main.style
-  if s.display == 'block'
-    s.display = 'none'
-  else
-    s.display = 'block'
+  menu_main.classList.toggle 'open'

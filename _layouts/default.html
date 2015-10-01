@@ -30,9 +30,11 @@
     </div>
 
     <div id="main-wrapper">
-      <menu id="menu-main" class="side">
-      {% include menu.html %}
-      </menu>
+      <div id="menu-wrapper">
+        <menu id="menu-main" class="side">
+        {% include menu.html %}
+        </menu>
+      </div>
       <main>
         {{ content }}
       </main>

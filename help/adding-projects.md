@@ -4,19 +4,37 @@ title: Adding projects
 ---
 
 
+## Adding projects
 
-# Adding projects
+Once you create your project you can edit it at any time, and no one will see it until you are ready to share it with your staff or network partners. 
 
-Click on a button to do stuff.
-It's that easy
+# What you will need to create your project
 
-## Adding Properties
+1.	Basic details like name of project, address, completion date, a short description etc
+2.	A price list in a table format, you will be able to copy and paste it straight in from excel!
+3.	Any images and documents you would like available (eg floorplans, contracts, brochures etc)
 
-![ProjectsHome](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_587/v1443594641/HelpGuide/2015-09-30_12-21-37.png)
+# 1. Create the project
 
-A property is inside a project and you can live in it
+Start by clicking the Create Project Button, from there you will need to select if it is an Apartment Development of a House and Land development.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Create-the-project](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_629/v1443664800/HelpGuide/2015-09-23_15-39-19.png)
 
+# 2. Enter basic details
 
-<video class="embed-responsive-item" controls="controls" poster="https://res.cloudinary.com/propconnect/video/upload/t_video_home/v1434362615/Property_Platform_Intro_-_MQ_uzysoi.jpg"><source src="https://res.cloudinary.com/propconnect/video/upload/v1434362615/Property_Platform_Intro_-_MQ_uzysoi.mp4" type="video/mp4"></video>
+![Enter-basic-details](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_659/v1443669012/HelpGuide/2015-09-23_15-48-32.png)
+
+Enter Project Details - note most fields are optional but the more complete the easier it will for your sales network to find the information.
+
+*Project name
+*Project address
+*Project description/marketing blurb 
+*Video URL (only if available)
+*Carpark value (only if required)
+*Estimated start and completion dated
+*Sunset Clause
+*Total Units
+*Number of Levels
+*Builder
+*Vendor
+

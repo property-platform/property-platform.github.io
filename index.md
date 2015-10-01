@@ -2,9 +2,16 @@
 layout: default
 ---
 
-# Welcome to Property Platform help
+# Welcome to Property Platform 101!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We hope that you find Property Platform easy to use, but we also understand that there are a few areas that might need some explaining. 
+
+You can find most answers to common questions about using the platform and managing your account on the right hand side of this page.
+
+If you can’t find the answer to your question in this guide then please send any questions to (propertyplatform@realestate.com.au) and we will respond to you as soon as we can.  
+
+Alternatively if you need an urgent answer contact our customer care team on 1300 134 174.
+
 
 
 <!-- ##Here is a video

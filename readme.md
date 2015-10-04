@@ -20,6 +20,21 @@ This tells github, what layout to use with our page, and what the title of the p
 Remember that search engines treat the title as important content. Additionally the title is what is quoted when the page is shown in the site menu/navigation. If you don't want to include the page in the navigation don't include a title. (eg: the help homepage is not in the menu)
 
 
+## Running the development environment
+
+First make sure you have bundle installed...
+
+    gem install bundler
+    
+To install the required dependencies, (as defined in `Gemfile` and `Gemfile.lock`)
+
+    bundle install
+
+Then to compile the website and start a small webserver
+
+    run/server
+
+The site is now available at [http://localhost:4000](http://localhost:4000/)
 
 
 #Writing with markdown

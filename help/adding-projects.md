@@ -18,11 +18,11 @@ Once you create your project you can edit it at any time, and no one will see it
 
 Start by clicking the Create Project Button, from there you will need to select if it is an Apartment Development of a House and Land development.
 
-![Create-the-project](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_629/v1443664800/HelpGuide/2015-09-23_15-39-19.png)
+![Create-the-project](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_628/v1443664800/HelpGuide/2015-09-23_15-39-19.png)
 
 #### 2. Enter basic details
 
-![Enter-basic-details](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_659/v1443669012/HelpGuide/2015-09-23_15-48-32.png)
+![Enter-basic-details](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_628/v1443669012/HelpGuide/2015-09-23_15-48-32.png)
 
 Enter Project Details - note most fields are optional but the more complete the easier it will for your sales network to find the information.
 

@@ -8,19 +8,19 @@ title: Adding projects
 
 Once you create your project you can edit it at any time, and no one will see it until you are ready to share it with your staff or network partners. 
 
-#### What you will need to create your project
+### What you will need to create your project
 
 1.	Basic details like name of project, address, completion date, a short description etc
 2.	A price list in a table format, you will be able to copy and paste it straight in from excel!
 3.	Any images and documents you would like available (eg floorplans, contracts, brochures etc)
 
-#### 1. Create the project
+### 1. Create the project
 
 Start by clicking the Create Project Button, from there you will need to select if it is an Apartment Development of a House and Land development.
 
 ![Create-the-project](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_628/v1443664800/HelpGuide/2015-09-23_15-39-19.png)
 
-#### 2. Enter basic details
+### 2. Enter basic details
 
 ![Enter-basic-details](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_628/v1443669012/HelpGuide/2015-09-23_15-48-32.png)
 
@@ -38,7 +38,7 @@ Enter Project Details - note most fields are optional but the more complete the 
 * Builder
 * Vendor
 
-#### 3. Setting up reservation details
+### 3. Setting up reservation details
 
 ![reservation](http://res.cloudinary.com/propconnect/image/upload/c_scale,w_628/v1443673687/HelpGuide/2015-10-01_14-26-50.png)
 
@@ -64,7 +64,7 @@ This is where you can customise how your networks can reserve properties
 
 **You’re ready to go, hit the create project button to continue**
 
-#### 4. Import your pricelist
+### 4. Import your pricelist
 
 You will be prompted to import a price list, but if you aren’t ready to do so just yet, you can always find it in the small cog that allows you to edit your project.
 
@@ -105,7 +105,7 @@ Next you have the opportunity to select the corresponding fields if the system w
 
 You will be informed if there are any issues with your import and allowed to fix it.  Common issues are things like having words where numbers are expected, or having blanks, eg if you are importing status it can’t be blank, it must either be available, reserved, sold, under contract, held.
 
-#### Adding Documents and Images
+### 5. Adding Documents and Images
 
 Once you’ve imported your properties you probably want to add documents or images
 
@@ -122,7 +122,7 @@ You have the opportunity to tag the documents you have uploaded.  If you tag the
 
 Common documents uploaded are things like contract of sale, brochures, floor plans and floor plates, other analysis or marketing materials. 
 
-#### Publishing your project
+### 6. Publishing your project
 
 ![publish]( http://res.cloudinary.com/propconnect/image/upload/c_scale,w_628/v1444105053/HelpGuide/2015-10-06_15-17-24.png
 )

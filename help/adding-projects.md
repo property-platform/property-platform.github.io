@@ -103,4 +103,29 @@ The minimum you require is the property number, the price, and the number of bed
 
 Next you have the opportunity to select the corresponding fields if the system wasn’t able to identify it for you, you can also elect not to import some of the fields.
 
+You will be informed if there are any issues with your import and allowed to fix it.  Common issues are things like having words where numbers are expected, or having blanks, eg if you are importing status it can’t be blank, it must either be available, reserved, sold, under contract, held.
+
+#### Adding Documents and Images
+
+Once you’ve imported your properties you probably want to add documents or images
+
+![edit-project]( http://res.cloudinary.com/propconnect/image/upload/c_scale,w_628/v1444101413/HelpGuide/2015-10-06_14-16-00.png
+)
+
+You can edit your project, including import pricelist and change all settings by clicking on edit project which can be found in the small gear on the right of the page - where ever you see the little gear allows you to edit or take further action.
+
+![edit-project]( http://res.cloudinary.com/propconnect/image/upload/c_scale,w_628/v1444101815/HelpGuide/2015-10-06_14-23-13.png)
+
+Click on the documents or images tab and upload documents and images you would like to provide to your agents.  You are able to reorder and rename whatever you have uploaded.
+
+You have the opportunity to tag the documents you have uploaded.  If you tag the floor plans to the corresponding property it means that that specific floor plan will be associated with the correct property so it is obvious which property has which floor plan.  Tagging is an efficient way of organising your documents to make it easy for your agents and staff to find what they are looking for.  
+
+Common documents uploaded are things like contract of sale, brochures, floor plans and floor plates, other analysis or marketing materials. 
+
+#### Publishing your project
+
+![publish]( http://res.cloudinary.com/propconnect/image/upload/c_scale,w_628/v1444105053/HelpGuide/2015-10-06_15-17-24.png
+)
+
+The final step is to move your project from Pending to Active – active means you are able to share it with agents and they are able to reserve.
 
